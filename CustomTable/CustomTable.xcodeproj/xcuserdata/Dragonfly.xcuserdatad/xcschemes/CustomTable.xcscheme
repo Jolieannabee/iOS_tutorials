@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D969DE0919A1A4E900DDB764"
+               BlueprintIdentifier = "D969DE4A19A1A62400DDB764"
                BuildableName = "CustomTable.app"
                BlueprintName = "CustomTable"
                ReferencedContainer = "container:CustomTable.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D969DE2A19A1A4EA00DDB764"
+               BlueprintIdentifier = "D969DE6B19A1A62400DDB764"
                BuildableName = "CustomTableTests.xctest"
                BlueprintName = "CustomTableTests"
                ReferencedContainer = "container:CustomTable.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D969DE0919A1A4E900DDB764"
+            BlueprintIdentifier = "D969DE4A19A1A62400DDB764"
             BuildableName = "CustomTable.app"
             BlueprintName = "CustomTable"
             ReferencedContainer = "container:CustomTable.xcodeproj">
@@ -61,7 +61,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D969DE0919A1A4E900DDB764"
+            BlueprintIdentifier = "D969DE4A19A1A62400DDB764"
             BuildableName = "CustomTable.app"
             BlueprintName = "CustomTable"
             ReferencedContainer = "container:CustomTable.xcodeproj">
@@ -79,7 +79,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D969DE0919A1A4E900DDB764"
+            BlueprintIdentifier = "D969DE4A19A1A62400DDB764"
             BuildableName = "CustomTable.app"
             BlueprintName = "CustomTable"
             ReferencedContainer = "container:CustomTable.xcodeproj">
